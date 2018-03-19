@@ -1,0 +1,2641 @@
+Mar 19, 2018 6:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Verification Task
+Mar 19, 2018 6:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: start
+Mar 19, 2018 6:25:51 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: end, cloud AzureVMAgents has currently 0 vms
+Mar 19, 2018 6:25:51 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Verification Task. 390 ms
+Mar 19, 2018 6:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:29:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:29:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:29:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:29:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:29:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 159 ms
+Mar 19, 2018 6:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 6:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 6:34:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:34:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:34:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:34:04 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:34:04 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 2,010 ms
+Mar 19, 2018 6:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:39:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:39:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:39:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:39:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:39:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 320 ms
+Mar 19, 2018 6:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:44:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:44:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:44:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:44:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:44:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 112 ms
+Mar 19, 2018 6:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:49:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:49:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:49:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:49:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:49:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 124 ms
+Mar 19, 2018 6:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 6:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:54:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:54:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:54:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:54:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:54:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 196 ms
+Mar 19, 2018 6:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 6:59:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 6:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 6:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 6:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 6:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 6:59:02 AM com.microsoft.aad.adal4j.AuthenticationAuthority doInstanceDiscovery
+INFO: [Correlation ID: 0640661d-4105-40ae-a90d-3d00b379d7e8] Instance discovery was successful
+Mar 19, 2018 6:59:03 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 6:59:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 6:59:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 6:59:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 484 ms
+Mar 19, 2018 6:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 6:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 7:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 7:04:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:04:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:04:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:04:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:04:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 312 ms
+Mar 19, 2018 7:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:09:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:09:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:09:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:09:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:09:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 123 ms
+Mar 19, 2018 7:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:14:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:14:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:14:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:14:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:14:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 119 ms
+Mar 19, 2018 7:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:19:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:19:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:19:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:19:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:19:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 190 ms
+Mar 19, 2018 7:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 7:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:24:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:24:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:24:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:24:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:24:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 130 ms
+Mar 19, 2018 7:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Verification Task
+Mar 19, 2018 7:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: start
+Mar 19, 2018 7:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: end, cloud AzureVMAgents has currently 0 vms
+Mar 19, 2018 7:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Verification Task. 173 ms
+Mar 19, 2018 7:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 7:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:29:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:29:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:29:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:29:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:29:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 682 ms
+Mar 19, 2018 7:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 7:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 7:34:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:34:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:34:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:34:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:34:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 104 ms
+Mar 19, 2018 7:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:39:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:39:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:39:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:39:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:39:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 254 ms
+Mar 19, 2018 7:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:44:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:44:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:44:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:44:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:44:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 586 ms
+Mar 19, 2018 7:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 7:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:49:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:49:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:49:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:49:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:49:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 427 ms
+Mar 19, 2018 7:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:54:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:54:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:54:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:54:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:54:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 140 ms
+Mar 19, 2018 7:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 7:59:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 7:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 7:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 7:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 7:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 7:59:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 7:59:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 7:59:06 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 7:59:06 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 3,559 ms
+Mar 19, 2018 7:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 7:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 8:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 8:04:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:04:02 AM com.microsoft.aad.adal4j.AuthenticationAuthority doInstanceDiscovery
+INFO: [Correlation ID: d1bc92f3-3da1-4d17-a79a-ea976c758d21] Instance discovery was successful
+Mar 19, 2018 8:04:03 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:04:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:04:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:04:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 589 ms
+Mar 19, 2018 8:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:09:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:09:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:09:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:09:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:09:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 495 ms
+Mar 19, 2018 8:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:14:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:14:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:14:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:14:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:14:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 284 ms
+Mar 19, 2018 8:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:19:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:19:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:19:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:19:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:19:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 107 ms
+Mar 19, 2018 8:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:24:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:24:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:24:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:24:04 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:24:04 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 1,481 ms
+Mar 19, 2018 8:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Verification Task
+Mar 19, 2018 8:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: start
+Mar 19, 2018 8:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: end, cloud AzureVMAgents has currently 0 vms
+Mar 19, 2018 8:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Verification Task. 66 ms
+Mar 19, 2018 8:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:29:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:29:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:29:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:29:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:29:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 115 ms
+Mar 19, 2018 8:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 8:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 1 ms
+Mar 19, 2018 8:34:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:34:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:34:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:34:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:34:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 273 ms
+Mar 19, 2018 8:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 8:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:39:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:39:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:39:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:39:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:39:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 118 ms
+Mar 19, 2018 8:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 8:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 8:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:44:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:44:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:44:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:44:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:44:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 290 ms
+Mar 19, 2018 8:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:49:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:49:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:49:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:49:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:49:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 362 ms
+Mar 19, 2018 8:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:53:20 AM hudson.plugins.sonar.SonarBuildWrapper setUp
+INFO: Injecting SonarQube environment variables using the configuration: SonarQubeServer_VM
+Mar 19, 2018 8:53:20 AM hudson.plugins.sonar.SonarBuildWrapper createLoggerDecorator
+INFO: Masking SonarQube passwords
+Mar 19, 2018 8:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 8:53:36 AM hudson.security.csrf.CrumbFilter doFilter
+WARNING: No valid crumb was included in request for / by sonarqualitygate. Returning 403.
+Mar 19, 2018 8:54:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:54:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:54:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:54:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:54:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 340 ms
+Mar 19, 2018 8:54:23 AM org.jenkinsci.plugins.workflow.job.WorkflowRun finish
+INFO: basic-spring-boot-app #28 completed: SUCCESS
+Mar 19, 2018 8:54:23 AM hudson.plugins.tfs.listeners.JenkinsRunListener onCompleted
+INFO: onCompleted: basic-spring-boot-app #28
+Mar 19, 2018 8:54:23 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 8:54:23 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 8:54:23 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 8:54:23 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 8:54:23 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 8:54:23 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 8:54:23 AM hudson.plugins.tfs.JenkinsEventNotifier getApiJson
+WARNING: ERROR: getApiJson: (url=job/basic-spring-boot-app/28/) Network is unreachable (connect failed)
+Mar 19, 2018 8:54:23 AM hudson.model.listeners.RunListener report
+WARNING: RunListener failed
+java.lang.RuntimeException: java.net.SocketException: Network is unreachable (connect failed)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:153)
+	at hudson.plugins.tfs.listeners.JenkinsRunListener.onCompleted(JenkinsRunListener.java:77)
+	at hudson.model.listeners.RunListener.fireCompleted(RunListener.java:211)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.finish(WorkflowRun.java:688)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.access$1400(WorkflowRun.java:143)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun$GraphL.onNewHead(WorkflowRun.java:1006)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution.notifyListeners(CpsFlowExecution.java:1368)
+	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$3.run(CpsThreadGroup.java:412)
+	at org.jenkinsci.plugins.workflow.cps.CpsVmExecutorService$1.run(CpsVmExecutorService.java:35)
+	at hudson.remoting.SingleLaneExecutorService$1.run(SingleLaneExecutorService.java:112)
+	at jenkins.util.ContextResettingExecutorService$1.run(ContextResettingExecutorService.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Network is unreachable (connect failed)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:359)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:381)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:130)
+	... 15 more
+
+Mar 19, 2018 8:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 8:59:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 8:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 8:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 8:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 8:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 8:59:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 8:59:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 8:59:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 8:59:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 114 ms
+Mar 19, 2018 8:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 8:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 9:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 1 ms
+Mar 19, 2018 9:04:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:04:02 AM com.microsoft.aad.adal4j.AuthenticationAuthority doInstanceDiscovery
+INFO: [Correlation ID: 3b7bf5c4-354b-421c-a2ea-7441b5155719] Instance discovery was successful
+Mar 19, 2018 9:04:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:04:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:04:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 419 ms
+Mar 19, 2018 9:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 9:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:09:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:09:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:09:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:09:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:09:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 282 ms
+Mar 19, 2018 9:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:14:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:14:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:14:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:14:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:14:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 219 ms
+Mar 19, 2018 9:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 9:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 9:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 9:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:19:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:19:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:19:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:19:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:19:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 139 ms
+Mar 19, 2018 9:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:24:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:24:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:24:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:24:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:24:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 111 ms
+Mar 19, 2018 9:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Verification Task
+Mar 19, 2018 9:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: start
+Mar 19, 2018 9:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: end, cloud AzureVMAgents has currently 0 vms
+Mar 19, 2018 9:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Verification Task. 153 ms
+Mar 19, 2018 9:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:29:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:29:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:29:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:29:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:29:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 370 ms
+Mar 19, 2018 9:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 9:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 9:34:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:34:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:34:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:34:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:34:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 108 ms
+Mar 19, 2018 9:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 9:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:39:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:39:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:39:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:39:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:39:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 105 ms
+Mar 19, 2018 9:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:44:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:44:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:44:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:44:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:44:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 126 ms
+Mar 19, 2018 9:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 9:47:21 AM org.eclipse.jetty.server.session.Session beginInvalidate
+INFO: Session node018id48i60ga201qioro1bzzf8o18 already being invalidated
+Mar 19, 2018 9:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:49:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:49:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:49:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:49:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:49:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 142 ms
+Mar 19, 2018 9:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:54:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:54:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:54:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:54:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:54:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 121 ms
+Mar 19, 2018 9:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 9:59:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 9:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 9:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 9:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 9:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 9:59:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 9:59:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 9:59:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 9:59:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 158 ms
+Mar 19, 2018 9:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 9:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 10:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 10:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 10:04:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:04:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:04:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:04:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:04:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 375 ms
+Mar 19, 2018 10:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 10:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:09:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:09:02 AM com.microsoft.aad.adal4j.AuthenticationAuthority doInstanceDiscovery
+INFO: [Correlation ID: 79a6ed49-1415-4ab5-9258-eeb6146d4e74] Instance discovery was successful
+Mar 19, 2018 10:09:03 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:09:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:09:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:09:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 520 ms
+Mar 19, 2018 10:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:14:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:14:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:14:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:14:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:14:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 224 ms
+Mar 19, 2018 10:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:16:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:17:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:18:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:19:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:19:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:19:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:19:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:19:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:19:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 125 ms
+Mar 19, 2018 10:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:19:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:20:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:21:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:22:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:23:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:24:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:24:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:24:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:24:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:24:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:24:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 207 ms
+Mar 19, 2018 10:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:24:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:25:10 AM hudson.plugins.sonar.SonarBuildWrapper setUp
+INFO: Injecting SonarQube environment variables using the configuration: SonarQubeServer_VM
+Mar 19, 2018 10:25:10 AM hudson.plugins.sonar.SonarBuildWrapper createLoggerDecorator
+INFO: Masking SonarQube passwords
+Mar 19, 2018 10:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:25:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:25:32 AM hudson.security.csrf.CrumbFilter doFilter
+WARNING: No valid crumb was included in request for / by sonarqualitygate. Returning 403.
+Mar 19, 2018 10:25:38 AM org.jenkinsci.plugins.workflow.job.WorkflowRun finish
+INFO: basic-spring-boot-app #29 completed: FAILURE
+Mar 19, 2018 10:25:38 AM hudson.plugins.tfs.listeners.JenkinsRunListener onCompleted
+INFO: onCompleted: basic-spring-boot-app #29
+Mar 19, 2018 10:25:38 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:25:38 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:25:38 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:25:38 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:25:38 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:25:38 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:25:38 AM hudson.plugins.tfs.JenkinsEventNotifier getApiJson
+WARNING: ERROR: getApiJson: (url=job/basic-spring-boot-app/29/) Network is unreachable (connect failed)
+Mar 19, 2018 10:25:38 AM hudson.model.listeners.RunListener report
+WARNING: RunListener failed
+java.lang.RuntimeException: java.net.SocketException: Network is unreachable (connect failed)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:153)
+	at hudson.plugins.tfs.listeners.JenkinsRunListener.onCompleted(JenkinsRunListener.java:77)
+	at hudson.model.listeners.RunListener.fireCompleted(RunListener.java:211)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.finish(WorkflowRun.java:688)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.access$1400(WorkflowRun.java:143)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun$GraphL.onNewHead(WorkflowRun.java:1006)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution.notifyListeners(CpsFlowExecution.java:1368)
+	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$3.run(CpsThreadGroup.java:412)
+	at org.jenkinsci.plugins.workflow.cps.CpsVmExecutorService$1.run(CpsVmExecutorService.java:35)
+	at hudson.remoting.SingleLaneExecutorService$1.run(SingleLaneExecutorService.java:112)
+	at jenkins.util.ContextResettingExecutorService$1.run(ContextResettingExecutorService.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Network is unreachable (connect failed)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:359)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:381)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:130)
+	... 15 more
+
+Mar 19, 2018 10:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Verification Task
+Mar 19, 2018 10:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: start
+Mar 19, 2018 10:25:50 AM com.microsoft.azure.vmagent.AzureVMCloudVerificationTask getVirtualMachineCount
+INFO: AzureVMCloudVerificationTask: getVirtualMachineCount: end, cloud AzureVMAgents has currently 0 vms
+Mar 19, 2018 10:25:50 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Verification Task. 52 ms
+Mar 19, 2018 10:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:26:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:27:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:28:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:28:55 AM hudson.plugins.sonar.SonarBuildWrapper setUp
+INFO: Injecting SonarQube environment variables using the configuration: SonarQubeServer_VM
+Mar 19, 2018 10:28:56 AM hudson.plugins.sonar.SonarBuildWrapper createLoggerDecorator
+INFO: Masking SonarQube passwords
+Mar 19, 2018 10:29:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:29:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:29:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:29:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:29:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:29:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 142 ms
+Mar 19, 2018 10:29:14 AM hudson.security.csrf.CrumbFilter doFilter
+WARNING: No valid crumb was included in request for / by sonarqualitygate. Returning 403.
+Mar 19, 2018 10:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:29:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:30:08 AM org.jenkinsci.plugins.workflow.job.WorkflowRun finish
+INFO: basic-spring-boot-app #30 completed: SUCCESS
+Mar 19, 2018 10:30:08 AM hudson.plugins.tfs.listeners.JenkinsRunListener onCompleted
+INFO: onCompleted: basic-spring-boot-app #30
+Mar 19, 2018 10:30:08 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:30:08 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:30:08 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:30:08 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:30:08 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:30:08 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:30:08 AM hudson.plugins.tfs.JenkinsEventNotifier getApiJson
+WARNING: ERROR: getApiJson: (url=job/basic-spring-boot-app/30/) Network is unreachable (connect failed)
+Mar 19, 2018 10:30:08 AM hudson.model.listeners.RunListener report
+WARNING: RunListener failed
+java.lang.RuntimeException: java.net.SocketException: Network is unreachable (connect failed)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:153)
+	at hudson.plugins.tfs.listeners.JenkinsRunListener.onCompleted(JenkinsRunListener.java:77)
+	at hudson.model.listeners.RunListener.fireCompleted(RunListener.java:211)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.finish(WorkflowRun.java:688)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.access$1400(WorkflowRun.java:143)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun$GraphL.onNewHead(WorkflowRun.java:1006)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution.notifyListeners(CpsFlowExecution.java:1368)
+	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$3.run(CpsThreadGroup.java:412)
+	at org.jenkinsci.plugins.workflow.cps.CpsVmExecutorService$1.run(CpsVmExecutorService.java:35)
+	at hudson.remoting.SingleLaneExecutorService$1.run(SingleLaneExecutorService.java:112)
+	at jenkins.util.ContextResettingExecutorService$1.run(ContextResettingExecutorService.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Network is unreachable (connect failed)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:359)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:381)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:130)
+	... 15 more
+
+Mar 19, 2018 10:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:30:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 1 ms
+Mar 19, 2018 10:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:31:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:32:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:33:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 10:33:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 10:34:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:34:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:34:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:34:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:34:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:34:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 121 ms
+Mar 19, 2018 10:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:34:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:35:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:36:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:37:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:38:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:39:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:39:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:39:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:39:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:39:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:39:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 112 ms
+Mar 19, 2018 10:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:39:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:40:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:41:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:42:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:43:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:44:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:44:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:44:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:44:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:44:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:44:58 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:44:58 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:44:58 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 55,507 ms
+Mar 19, 2018 10:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:45:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:46:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:47:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:48:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:49:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:49:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:49:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:49:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:49:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:49:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 276 ms
+Mar 19, 2018 10:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:49:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:50:19 AM com.microsoft.aad.adal4j.AuthenticationAuthority doInstanceDiscovery
+INFO: [Correlation ID: d0e0365c-b244-4594-bab9-4b145b172038] Instance discovery was successful
+Mar 19, 2018 10:50:19 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:50:19 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:50:19 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:50:19 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:50:19 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:50:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:51:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:52:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:53:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:54:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:54:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:54:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:54:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:54:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:54:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 321 ms
+Mar 19, 2018 10:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:54:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:55:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:56:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:57:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:57:37 AM hudson.plugins.sonar.SonarBuildWrapper setUp
+INFO: Injecting SonarQube environment variables using the configuration: SonarQubeServer_VM
+Mar 19, 2018 10:57:37 AM hudson.plugins.sonar.SonarBuildWrapper createLoggerDecorator
+INFO: Masking SonarQube passwords
+Mar 19, 2018 10:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:58:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 10:58:50 AM org.jenkinsci.plugins.workflow.job.WorkflowRun finish
+INFO: basic-spring-boot-app #31 completed: SUCCESS
+Mar 19, 2018 10:58:50 AM hudson.plugins.tfs.listeners.JenkinsRunListener onCompleted
+INFO: onCompleted: basic-spring-boot-app #31
+Mar 19, 2018 10:58:50 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:58:50 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:58:50 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:58:50 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:58:50 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 10:58:50 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 10:58:50 AM hudson.plugins.tfs.JenkinsEventNotifier getApiJson
+WARNING: ERROR: getApiJson: (url=job/basic-spring-boot-app/31/) Network is unreachable (connect failed)
+Mar 19, 2018 10:58:50 AM hudson.model.listeners.RunListener report
+WARNING: RunListener failed
+java.lang.RuntimeException: java.net.SocketException: Network is unreachable (connect failed)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:153)
+	at hudson.plugins.tfs.listeners.JenkinsRunListener.onCompleted(JenkinsRunListener.java:77)
+	at hudson.model.listeners.RunListener.fireCompleted(RunListener.java:211)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.finish(WorkflowRun.java:688)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.access$1400(WorkflowRun.java:143)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun$GraphL.onNewHead(WorkflowRun.java:1006)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution.notifyListeners(CpsFlowExecution.java:1368)
+	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$3.run(CpsThreadGroup.java:412)
+	at org.jenkinsci.plugins.workflow.cps.CpsVmExecutorService$1.run(CpsVmExecutorService.java:35)
+	at hudson.remoting.SingleLaneExecutorService$1.run(SingleLaneExecutorService.java:112)
+	at jenkins.util.ContextResettingExecutorService$1.run(ContextResettingExecutorService.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Network is unreachable (connect failed)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:359)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:381)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:130)
+	... 15 more
+
+Mar 19, 2018 10:59:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 10:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 10:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 10:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 10:59:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 10:59:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 10:59:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 10:59:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 10:59:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 124 ms
+Mar 19, 2018 10:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 10:59:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:00:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:00:34 AM hudson.plugins.sonar.SonarBuildWrapper setUp
+INFO: Injecting SonarQube environment variables using the configuration: SonarQubeServer_VM
+Mar 19, 2018 11:00:34 AM hudson.plugins.sonar.SonarBuildWrapper createLoggerDecorator
+INFO: Masking SonarQube passwords
+Mar 19, 2018 11:01:01 AM org.jenkinsci.plugins.workflow.job.WorkflowRun finish
+INFO: basic-spring-boot-app #32 completed: FAILURE
+Mar 19, 2018 11:01:01 AM hudson.plugins.tfs.listeners.JenkinsRunListener onCompleted
+INFO: onCompleted: basic-spring-boot-app #32
+Mar 19, 2018 11:01:01 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 11:01:01 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 11:01:01 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 11:01:01 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 11:01:01 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80: Network is unreachable (connect failed)
+Mar 19, 2018 11:01:01 AM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://ebrdjenkins.westeurope.cloudapp.azure.com:80
+Mar 19, 2018 11:01:01 AM hudson.plugins.tfs.JenkinsEventNotifier getApiJson
+WARNING: ERROR: getApiJson: (url=job/basic-spring-boot-app/32/) Network is unreachable (connect failed)
+Mar 19, 2018 11:01:01 AM hudson.model.listeners.RunListener report
+WARNING: RunListener failed
+java.lang.RuntimeException: java.net.SocketException: Network is unreachable (connect failed)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:153)
+	at hudson.plugins.tfs.listeners.JenkinsRunListener.onCompleted(JenkinsRunListener.java:77)
+	at hudson.model.listeners.RunListener.fireCompleted(RunListener.java:211)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.finish(WorkflowRun.java:688)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun.access$1400(WorkflowRun.java:143)
+	at org.jenkinsci.plugins.workflow.job.WorkflowRun$GraphL.onNewHead(WorkflowRun.java:1006)
+	at org.jenkinsci.plugins.workflow.cps.CpsFlowExecution.notifyListeners(CpsFlowExecution.java:1368)
+	at org.jenkinsci.plugins.workflow.cps.CpsThreadGroup$3.run(CpsThreadGroup.java:412)
+	at org.jenkinsci.plugins.workflow.cps.CpsVmExecutorService$1.run(CpsVmExecutorService.java:35)
+	at hudson.remoting.SingleLaneExecutorService$1.run(SingleLaneExecutorService.java:112)
+	at jenkins.util.ContextResettingExecutorService$1.run(ContextResettingExecutorService.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Network is unreachable (connect failed)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:359)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:381)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:108)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at hudson.plugins.tfs.JenkinsEventNotifier.getApiJson(JenkinsEventNotifier.java:130)
+	... 15 more
+
+Mar 19, 2018 11:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:01:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:02:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:03:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started ACI Period Clean Task
+Mar 19, 2018 11:03:44 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished ACI Period Clean Task. 0 ms
+Mar 19, 2018 11:03:54 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:03:54 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:03:54 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:03:54 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:03:54 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:04:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 11:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 11:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 11:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 11:04:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 11:04:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 11:04:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:04:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 11:04:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 111 ms
+Mar 19, 2018 11:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:04:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:05:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:06:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:07:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:08:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:09:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 11:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 11:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 11:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 11:09:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 11:09:02 AM com.microsoft.aad.adal4j.AuthenticationAuthority doInstanceDiscovery
+INFO: [Correlation ID: 6e889767-cbe6-4347-a290-e1bbfb54cb60] Instance discovery was successful
+Mar 19, 2018 11:09:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:09:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 11:09:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 443 ms
+Mar 19, 2018 11:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:09:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:10:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:11:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:12:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:13:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:14:02 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Agents Clean Task
+Mar 19, 2018 11:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: start
+Mar 19, 2018 11:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: Running clean with 5 minute timeout
+Mar 19, 2018 11:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Cleaning deployments
+Mar 19, 2018 11:14:02 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask cleanDeployments
+INFO: AzureVMAgentCleanUpTask: cleanDeployments: Done cleaning deployments
+Mar 19, 2018 11:14:02 AM com.microsoft.rest.interceptors.LoggingInterceptor log
+INFO: <-- HTTP FAILED: java.net.SocketException: Connection reset
+Mar 19, 2018 11:14:03 AM okhttp3.internal.platform.Platform log
+INFO: ALPN callback dropped: SPDY and HTTP/2 are disabled. Is alpn-boot on the boot class path?
+Mar 19, 2018 11:14:03 AM com.microsoft.azure.vmagent.AzureVMAgentCleanUpTask execute
+INFO: AzureVMAgentCleanUpTask: execute: end
+Mar 19, 2018 11:14:03 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Agents Clean Task. 345 ms
+Mar 19, 2018 11:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:14:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
+Mar 19, 2018 11:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Started Azure VM Maintainer Pool Size
+Mar 19, 2018 11:15:29 AM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Azure VM Maintainer Pool Size. 0 ms
