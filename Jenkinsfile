@@ -1,12 +1,15 @@
 pipeline {
 
  agent any
+ environment{
+   DEV="Development"
+ }
  
  stages {
  
  stage('Get build details'){
     steps {
-      echo "Running ${env.BUILD_NUMBER} with name ${env.BUILD_DISPLAY_NAME} on ${env.JENKINS_URL}"
+      echo "Running build number ${env.BUILD_DISPLAY_NAME} on ${env.JENKINS_URL} in ${env.DEV} environment"
      }
   }   
  stage('Checkout code'){
