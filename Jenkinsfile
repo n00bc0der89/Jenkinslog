@@ -6,7 +6,7 @@ pipeline {
  
  stage('Get build details'){
     steps {
-      echo "Running ${env.BUILD_ID} with name ${env.BUILD_NAME} on ${env.JENKINS_URL}"
+      echo "Running ${env.BUILD_NUMBER} with name ${env.BUILD_DISPLAY_NAME} on ${env.JENKINS_URL}"
      }
   }   
  stage('Checkout code'){
