@@ -11,7 +11,8 @@ node {
  }
 
  stage('Run docker image'){
-  docker.image("docker/node_from_pipeline").withRun(){
+   app.withRun(){
+     c -> sh "docker exec ${c.id} sh"
   }
  }
  stage('Generate version'){
