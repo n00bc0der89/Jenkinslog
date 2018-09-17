@@ -12,8 +12,7 @@ node {
 
  stage('Run docker image'){
   docker.image("docker/node_from_pipeline").withRun('-p 8083:8085'){
-   c -> sh 'node --version'
-        sh 'svn --version'  
+   c -> sh "docker exec ${c.id} 'node --version'"  
   }
  }
  stage('Generate version'){
