@@ -11,7 +11,7 @@ node {
  }
 
  stage('Run docker image'){
-   app.withRun('-e MYSQL_ROOT_PASSWORD='root' -p 3306:3306'){
+   app.withRun("-e MYSQL_ROOT_PASSWORD='root' -p 3306:3306"){
      c -> sh "docker run -d scn3089/alpine_mysql"
        
   }
