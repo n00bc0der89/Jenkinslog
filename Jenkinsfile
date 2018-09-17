@@ -7,7 +7,7 @@ node {
  }
 
  stage('BUild docker image'){
-   app = docker.build("scn3089/node_from_pipeline")
+   app = docker.build("scn3089/alpine_mysql")
  }
 
  stage('Run docker image'){

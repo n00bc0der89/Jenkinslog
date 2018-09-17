@@ -1,2 +1,3 @@
-FROM node:7-alpine
-RUN apk add -U subversion
+FROM alpine:3.7
+RUN apk add --no-cache mysql-client
+ENTRYPOINT ["mysql"]
