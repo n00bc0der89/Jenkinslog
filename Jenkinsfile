@@ -11,7 +11,7 @@ node {
  }
 
  stage('Run docker image'){
-   app.withRun(){
+   app.withRun('-p 3306:3306'){
      c -> sh "docker exec ${c.id} sh"
   }
  }
