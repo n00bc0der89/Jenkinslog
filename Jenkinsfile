@@ -7,7 +7,7 @@ node {
  }
 
  stage('BUild docker image'){
-   app = docker.build("docker/node_from_pipeline")
+   app = docker.build("scn3089/node_from_pipeline")
  }
 
  stage('Run docker image'){
