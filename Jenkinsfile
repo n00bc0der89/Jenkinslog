@@ -21,12 +21,13 @@ node {
         projectStartDate:    '2018-09-17',
         skipFailedBuilds:    true)
     appversion = BUILD_VERSION_GENERATED
+    echo "Version number ${appversion}"
  }
  }
  
  stage('Push image')
  {
-  docker.withRegistry('https://hub.docker.com/','docker-hub') {
+  docker.withRegistry('https://registry.hub.docker.com','docker-hub') {
    app.push("$appversion");
   }
  }
